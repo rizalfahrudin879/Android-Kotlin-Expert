@@ -1,0 +1,182 @@
+<resources>
+    <string name="app_name">SubmissionAplikasiMovieCatalogue</string>
+    <string name="app_bar_home">Katalog Film</string>
+    <string name="app_bar_detail">Detail Film</string>
+    <string name="todo">TODO</string>
+    <string name="description_movie">Description Movie</string>
+    <string name="title_detail">Title Detail</string>
+    <string name="overview">Ringkasan</string>
+    <string name="isi_overview">Content Overview</string>
+    <string name="content_release">Content Release Information</string>
+    <string name="genres">Genre</string>
+    <string name="release_information">Informasi Rilis</string>
+    <string name="runtime">Waktu</string>
+    <string name="content_runtime">Content Runtime</string>
+    <string name="content_genres">Content Genres</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="title_movie">Title Movie</string>
+
+    <string-array name="data_title">
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Venom</item>
+        <item>Robin Hood</item>
+        <item>Bird Box</item>
+        <item>Glass</item>
+        <item>Hunter Killer</item>
+        <item>The Mule</item>
+        <item>Bumblebee</item>
+        <item>Creed II</item>
+    </string-array>
+
+    <string-array name="data_date">
+        <item>21 Desember 2018</item>
+        <item>23 April 2018</item>
+        <item>1 Oktober 2018</item>
+        <item>21 November 2018</item>
+        <item>12 November 2018</item>
+        <item>18 Januari 2019</item>
+        <item>26 Oktober 2018</item>
+        <item>10 Desember 2018</item>
+        <item>21 Desember 2018</item>
+        <item>14 November 2018</item>
+    </string-array>
+
+    <string-array name="data_genres">
+        <item> Aksi, Petualangan, Fantasi </item>
+        <item> Petualangan, Aksi, Fiksi Ilmiah </item>
+        <item> Fiksi Ilmiah, Aksi </item>
+        <item> Petualangan, Aksi, Thriller </item>
+        <item> Thriller, Drama </item>
+        <item> Thriller, Drama, Fiksi Ilmiah </item>
+        <item> Aksi, Thriller </item>
+        <item> CrimeDrama, Thriller </item>
+        <item> Aksi, Petualangan, Fiksi Ilmiah </item>
+        <item> Drama </item>
+    </string-array>
+
+    <string-array name="data_runtime">
+        <item>2h 24m</item>
+        <item>2h 29m</item>
+        <item>1h 52m</item>
+        <item>1h 56m</item>
+        <item>2h 4m</item>
+        <item>2h 9m</item>
+        <item>2h 2m</item>
+        <item>1h 57m</item>
+        <item>1h 54m</item>
+        <item>2h 10m</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Dulunya merupakan rumah bagi peradaban paling maju di Bumi, Atlantis sekarang merupakan kerajaan bawah laut yang diperintah oleh Raja Orm yang haus kekuasaan. Dengan pasukan yang sangat besar yang dapat digunakannya, Orm berencana untuk menaklukkan orang-orang samudera yang tersisa dan kemudian dunia permukaan. </item>
+        <item>Ketika Avengers dan sekutu mereka terus melindungi dunia dari ancaman yang terlalu besar untuk ditangani oleh satu pahlawan, bahaya baru telah muncul dari bayang-bayang kosmik: Thanos. Seorang lalim penghinaan intergalaksi, tujuannya adalah untuk mengumpulkan semua enam Batu Infinity, artefak kekuatan yang tak terbayangkan, dan menggunakannya untuk menimbulkan keinginannya yang terpelintir pada semua kenyataan. Segala sesuatu yang Avengers telah perjuangkan telah mengarah ke saat ini - nasib Bumi dan keberadaannya sendiri tidak pernah lebih tidak pasti. </item>
+        <item>Wartawan investigasi Eddie Brock berusaha untuk kembali setelah skandal, tetapi secara tidak sengaja menjadi tuan rumah Venom, seorang simbiot alien yang sangat kuat dan sakti. Segera, ia harus mengandalkan kekuatan barunya untuk melindungi dunia dari organisasi bayangan yang mencari simbiosis mereka sendiri. </item>
+        <item>Seorang Tentara Salib yang mengeras perang dan komandan Moornya melancarkan pemberontakan yang berani melawan mahkota Inggris yang korup </item>
+        <item>Lima tahun setelah kehadiran tak terlihat yang tidak menyenangkan mendorong sebagian besar masyarakat untuk bunuh diri, seorang yang selamat dan dua anaknya melakukan upaya putus asa untuk mencapai keselamatan. </item>
+        <item>Dalam serangkaian pertemuan yang meningkat, mantan penjaga keamanan David Dunn menggunakan kemampuan supernaturalnya untuk melacak Kevin Wendell Crumb, seorang lelaki terganggu yang memiliki dua puluh empat kepribadian. Sementara itu, kehadiran bayangan Elia Price muncul sebagai seorang orkestra yang menyimpan rahasia penting bagi keduanya. </item>
+        <item>Kapten Glass dari USS Arkansas menemukan bahwa kudeta sedang terjadi di Rusia, jadi ia dan krunya bergabung dengan kelompok elit yang bekerja di tanah untuk mencegah perang. </item>
+        <item>Earl Stone, seorang pria berusia delapan puluhan, bangkrut, sendirian, dan menghadapi penyitaan bisnisnya ketika dia ditawari pekerjaan yang hanya mengharuskannya mengemudi. Cukup mudah, tetapi, tanpa sepengetahuan Earl, dia baru saja mendaftar sebagai kurir narkoba untuk kartel Meksiko. Dia melakukannya dengan sangat baik sehingga muatannya meningkat secara eksponensial, dan Earl menabrak radar agen DEA pengisian keras Colin Bates </item>
+        <item>Dalam pelarian pada tahun 1987, Bumblebee menemukan perlindungan di tempat barang rongsokan di kota pantai kecil California. Charlie, di puncak usia 18 dan berusaha menemukan tempatnya di dunia, menemukan Bumblebee, bekas luka pertempuran dan patah. Ketika Charlie membangkitkannya, dia dengan cepat mengetahui bahwa ini bukan bug VW kuning biasa. </item>
+        <item>Antara kewajiban pribadi dan pelatihan untuk pertarungan besar berikutnya melawan lawan yang memiliki ikatan dengan masa lalu keluarganya, Adonis Creed menghadapi tantangan hidupnya. </item>
+    </string-array>
+
+    <array name="data_image">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_glass</item>
+        <item>@drawable/poster_hunterkiller</item>
+        <item>@drawable/poster_themule</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_creed</item>
+    </array>
+
+
+    <!--TV SHOW-->
+    <string-array name="data_title_tv_show">
+        <item>The Simpsons</item>
+        <item>Arrow</item>
+        <item>Riverdale</item>
+        <item>The Flash</item>
+        <item>Family Guy</item>
+        <item>NCIS</item>
+        <item>Gotham</item>
+        <item>Dragon Ball</item>
+        <item>Doom Patrol</item>
+        <item>Iron Fist</item>
+    </string-array>
+
+
+    <string-array name="data_date_tv_show">
+        <item>17 Desember 1989</item>
+        <item>10 Oktober 2012</item>
+        <item>26 Januari 2017</item>
+        <item>7 Oktober 2014</item>
+        <item>31 Januari 1999</item>
+        <item>23 September 2003</item>
+        <item>22 September 2014</item>
+        <item>26 Februari 1986</item>
+        <item>15 Februari 2019</item>
+        <item>17 Maret 2017</item>
+    </string-array>
+
+    <string-array name="data_genres_tv_show">
+        <item>Animasi, Komedi </item>
+        <item>Kejahatan, Drama, Misteri, Aksi, Petualangan </item>
+        <item>Drama, Misteri </item>
+        <item>DramaSci-Fi, Fantasi </item>
+        <item>Animasi, Komedi </item>
+        <item>Aksi, Petualangan, Kejahatan, Drama </item>
+        <item>Drama, Fantasi, Kejahatan </item>
+        <item>KomediSci-Fi, Fantasi, Animasi, Aksi, Petualangan </item>
+        <item>Sci-Fi, Fantasi, Aksi, Petualangan </item>
+        <item>Aksi, Petualangan, Drama, Sci-Fi, Fantasi </item>
+    </string-array>
+
+    <string-array name="data_runtime_tv_show">
+        <item>22m</item>
+        <item>42m</item>
+        <item>45m</item>
+        <item>44m</item>
+        <item>22m</item>
+        <item>45m</item>
+        <item>43m, 60m</item>
+        <item>25m</item>
+        <item>60m</item>
+        <item>55m</item>
+    </string-array>
+
+
+    <string-array name="data_description_tv_show">
+        <item>Bertempat di Springfield, kota rata-rata di Amerika, pertunjukan ini berfokus pada kejenakaan dan petualangan sehari-hari keluarga Simpson; Homer, Marge, Bart, Lisa dan Maggie, serta ribuan pemain virtual. Sejak awal, serial ini telah menjadi ikon budaya pop, menarik ratusan selebriti menjadi bintang tamu. Acara ini juga menjadi terkenal karena satirnya yang tak kenal takut terhadap politik, media, dan kehidupan Amerika secara umum </item>
+        <item>Playboy miliarder manja, Oliver Queen, hilang dan diduga tewas saat kapal pesiarnya hilang di laut. Dia kembali lima tahun kemudian seorang pria yang berubah, bertekad untuk membersihkan kota sebagai main hakim sendiri bersenjatakan busur </item>
+        <item>Berada di masa kini, seri ini menawarkan pandangan subversif yang berani tentang Archie, Betty, Veronica dan teman-teman mereka, menjelajahi kejernihan kehidupan kota kecil, kegelapan dan keanehan yang meluap di bawah fasad Riverdale yang sehat. </item>
+        <item>Setelah akselerator partikel menyebabkan badai hebat, Penyelidik CSI Barry Allen disambar petir dan jatuh koma. Beberapa bulan kemudian dia terbangun dengan kekuatan kecepatan super, memberinya kemampuan untuk bergerak melalui Central City seperti malaikat penjaga yang tak terlihat. Meskipun awalnya bersemangat dengan kekuatan barunya, Barry terkejut menemukan bahwa dia bukan satu-satunya "manusia meta" yang diciptakan setelah ledakan akselerator - dan tidak semua orang menggunakan kekuatan baru mereka untuk kebaikan. Barry bermitra dengan S.T.A.R. Lab dan mendedikasikan hidupnya untuk melindungi yang tidak bersalah. Untuk saat ini, hanya beberapa teman dekat dan rekan yang tahu bahwa Barry secara harfiah adalah manusia tercepat yang hidup, tetapi itu tidak akan lama sebelum dunia mengetahui apa yang menjadi Barry Allen The Flash </item>
+        <item>Serial animasi Freakin Sweet yang sakit, terpelintir, tidak tepat secara politis, dan menampilkan petualangan keluarga Griffin yang disfungsional. Peter yang kikuk dan Lois yang sudah lama menderita memiliki tiga anak. Stewie (bayi yang brilian tetapi sadis yang bertekad membunuh ibunya dan mengambil alih dunia), Meg (yang tertua, dan merupakan gadis yang paling tidak populer di kota) dan Chris (anak tengah, dia tidak terlalu cerdas tetapi memiliki hasrat untuk film) ). Anggota terakhir keluarga itu adalah Brian - anjing yang bisa bicara dan lebih dari sekadar hewan peliharaan, ia menjaga Stewie, sambil menghirup Martinis dan memilah-milah masalah hidupnya sendiri. </item>
+        <item>Dari pembunuhan dan spionase hingga terorisme dan kapal selam curian, tim agen khusus menyelidiki kejahatan apa pun yang memiliki sedikit bukti yang terhubung dengan personel Korps Angkatan Laut dan Korps Marinir, terlepas dari pangkat atau jabatannya </item>
+        <item>Semua orang tahu nama Komisaris Gordon. Dia adalah salah satu musuh terbesar dunia kejahatan, seorang pria yang reputasinya identik dengan hukum dan ketertiban. Tapi apa yang diketahui tentang kisah Gordons dan kenaikannya dari detektif pemula ke Komisaris Polisi? Apa yang diperlukan untuk menavigasi berbagai lapisan korupsi yang diam-diam memerintah Kota Gotham, tempat bertelurnya penjahat paling ikonik di dunia? Dan keadaan apa yang menciptakan mereka - persona yang lebih besar dari kehidupan yang akan menjadi Catwoman, The Penguin, The Riddler, Two-Face dan The Joker? </item>
+        <item>Dahulu di gunung, seorang master pertempuran yang dikenal sebagai Gohan menemukan seorang anak aneh yang ia beri nama Goku. Gohan membesarkannya dan melatih Goku dalam seni bela diri sampai dia mati. Bocah muda dan sangat kuat itu sendirian, tetapi mudah dikelola. Kemudian suatu hari, Goku bertemu dengan seorang gadis remaja bernama Bulma, yang pencariannya untuk Bola Naga mistis membawanya ke rumah Gokus. Bersama-sama, mereka berangkat untuk menemukan ketujuh dan mengabulkan keinginannya. </item>
+        <item>Anggota Patroli Doom masing-masing mengalami kecelakaan mengerikan yang memberi mereka kemampuan manusia super - tetapi juga membuat mereka terluka dan cacat. Trauma dan tertindas, tim menemukan tujuan melalui Ketua, yang menyatukan mereka untuk menyelidiki fenomena paling aneh yang ada - dan untuk melindungi Bumi dari apa yang mereka temukan. </item>
+        <item>Danny Rand muncul kembali 15 tahun setelah dianggap mati. Sekarang, dengan kekuatan Iron Fist, ia berusaha untuk merebut kembali masa lalunya dan memenuhi takdirnya. </item>
+    </string-array>
+
+    <string-array name="data_image_tv_show">
+        <item>@drawable/poster_the_simpson</item>
+        <item>@drawable/poster_arrow</item>
+        <item>@drawable/poster_riverdale</item>
+        <item>@drawable/poster_the_flash</item>
+        <item>@drawable/poster_family_guy</item>
+        <item>@drawable/poster_ncis</item>
+        <item>@drawable/poster_gotham</item>
+        <item>@drawable/poster_dragon_ball</item>
+        <item>@drawable/poster_doom_patrol</item>
+        <item>@drawable/poster_iron_fist</item>
+    </string-array>
+
+
+
+</resources>
