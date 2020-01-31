@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SubmissionAplikasiMovieCatalogue</string>
+    <string name="app_bar_home">Katalog Film</string>
+    <string name="app_bar_detail">Detail Film</string>
+    <string name="todo">TODO</string>
+    <string name="description_movie">Description Movie</string>
+    <string name="title_detail">Title Detail</string>
+    <string name="overview">Ringkasan</string>
+    <string name="isi_overview">Content Overview</string>
+    <string name="content_release">Content Release Information</string>
+    <string name="genres">Genre</string>
+    <string name="release_information">Informasi Rilis</string>
+    <string name="runtime">Waktu</string>
+    <string name="content_runtime">Content Runtime</string>
+    <string name="content_genres">Content Genres</string>
+    <string name="tab_text_1">Film</string>
+    <string name="tab_text_2">Acara TV</string>
+    <string name="title_movie">Title Movie</string>
+    <string name="language">id-Id</string>
+</resources>
